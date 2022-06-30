@@ -3,14 +3,26 @@
 
 #include <bits/stdc++.h>
 
+#define vi vector<int>
+
 using namespace std;
 struct graph {
 
-    vector<vector<int>> adj_list;
+    vector<vi> adj_list;
 
     graph(string file_name);
 
+    uint size();
     void show();
+    vi get_neighbours(int v);
+
 };
+
+inline uint graph::size() {return adj_list.size();}
+
+inline vi graph::get_neighbours(int v) {
+    return adj_list[v];
+}
+
 
 #endif
