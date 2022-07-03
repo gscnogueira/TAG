@@ -24,7 +24,7 @@ int main() {
     KB(g, false);
 
     printf("---------------------------------------------\n");
-    printf("==> coeficiente de alglomeração médio: %lf\n", clustering_coefficient(g));
+    printf("==> coeficiente de aglomeração médio: %lf\n", clustering_coefficient(g));
 
 
 }
