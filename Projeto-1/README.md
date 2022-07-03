@@ -8,7 +8,7 @@
 - Linguagem: C++17
 - Compilador utilizado : GCC 12.1.0
 
-## Instruções de compilação e execução
+## Instruções de compilação
 
 Para compilar o programa, basta rodar o seguinte comando no diretório do projeto:
 
