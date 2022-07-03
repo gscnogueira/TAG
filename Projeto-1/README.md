@@ -10,7 +10,7 @@
 
 ## Instruções de compilação
 
-Para compilar o programa, basta rodar o seguinte comando no diretório do projeto:
+Para compilar o programa, basta rodar o seguinte comando no diretório em que este projeto está localizado:
 
 ```
 $ make
