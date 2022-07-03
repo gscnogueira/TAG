@@ -1,3 +1,8 @@
+/* Author: Gabriel da Silva Corvino Nogueira
+ * Email : gab.nog94@gmail.com
+ * Github: https://github.com/nosgueira
+ */
+
 #include <bits/stdc++.h>
 #include "graph.h"
 
