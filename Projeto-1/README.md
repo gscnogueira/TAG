@@ -1,9 +1,19 @@
-# Projeto 1 - Teoria e Aplicação de Grafos
+# Projeto 1 - Teoria e Aplicação de Grafos 2022.1
 
-## Instruções de compilação
+## Informações
 
-Para compilar o programa, basta rodar o seguinte comando diretório do projeto:
+- Aluno: Gabriel da Silva Corvino Nogueira
+- Matrícula: 18/0113330
+- Sistema Operacional utilizado: GNU/Linux
+- Linguagem: C++17
+- Compilador utilizado : GCC 12.1.0
+
+## Instruções de compilação e execução
+
+Para compilar o programa, basta rodar o seguinte comando no diretório do projeto:
 
 ```
-make
+$ make
 ```
+
+
