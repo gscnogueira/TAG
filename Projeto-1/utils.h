@@ -1,3 +1,8 @@
+/* Author: Gabriel da Silva Corvino Nogueira
+ * Email : gab.nog94@gmail.com
+ * Github: https://github.com/nosgueira
+ */
+
 #ifndef _UTILS_H_
 #define _UTILS_H_
 

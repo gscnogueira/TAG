@@ -1,3 +1,8 @@
+/* Author: Gabriel da Silva Corvino Nogueira
+ * Email : gab.nog94@gmail.com
+ * Github: https://github.com/nosgueira
+ */
+
 #ifndef __GRAPH_H__
 #define __GRAPH_H__
 
